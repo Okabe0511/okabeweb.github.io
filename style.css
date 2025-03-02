@@ -1,0 +1,28 @@
+html{
+    background-color: aquamarine;
+}
+.box{
+    padding: 1em;
+    background-color: #b9fbc4;
+    margin: 1cm;
+    border: 5px solid rgb(0, 91, 52);
+}
+h1{
+    color:rgb(7, 116, 27);
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 4mm ridge rgba(132, 243, 135, 0.897);
+    text-shadow: 2px 2px 1px rgb(3, 50, 1);
+}
+h2{
+    color: gray;
+    text-align: left;
+    font-weight: lighter;
+    font-size: small;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: cadetblue;
+}
